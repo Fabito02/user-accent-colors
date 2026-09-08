@@ -115,7 +115,7 @@ It is possible to expand ChromaLeon's color compatibility by performing an addit
 
 <br>
 
-## 💛 Support the Project
+## 💖️ Support the Project
 
 ### ChromaLeon is a project I maintain in my spare time. If it helps you customize your device, please consider supporting my work with a small contribution :)
 <br>
@@ -148,10 +148,20 @@ It is possible to expand ChromaLeon's color compatibility by performing an addit
 
 **Pix Key:** `9492f4aa-3da3-4824-ac7f-6f559a9b360d`
 
-## 🌟️ Contributors
+## 🫂️ Contributors
 
 <a href="https://github.com/fabito02/chromaleon/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=fabito02/chromaleon" />
 </a>
 
 Made with [contrib.rocks](https://contrib.rocks).
+
+## 🌟️ Star History
+
+<a href="https://star-history.dera.page/#Fabito02/ChromaLeon&legend=bottom-right">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://star-history.dera.page/svg?repos=Fabito02/ChromaLeon&theme=dark&legend=bottom-right" />
+   <source media="(prefers-color-scheme: light)" srcset="https://star-history.dera.page/svg?repos=Fabito02/ChromaLeon&legend=bottom-right" />
+   <img alt="Star History Chart" src="https://star-history.dera.page/svg?repos=Fabito02/ChromaLeon&legend=bottom-right" />
+ </picture>
+</a>
